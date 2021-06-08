@@ -34,7 +34,7 @@ async def start(event):
             [Button.inline("HELP", data="ihelp")],
             [
                 Button.url("🦋 Cнαηηєℓ 🦋", url="t.me/MarineBots"),
-                Button.url("🦋 Ƨυρρσят 🦋", url="t.me/MarineChats"),
+                Button.url("🦋 Sυρρσят 🦋", url="t.me/MarineChats"),
             ],
         ],
     )
@@ -61,7 +61,7 @@ async def beck(event):
             [Button.inline("HELP", data="ihelp")],
             [
                 Button.url("🦋 Cнαηηєℓ 🦋", url="t.me/MarineBots"),
-                Button.url("🦋 Ƨυρρσят 🦋", url="t.me/MarineChats"),
+                Button.url("🦋 Sυρρσят 🦋", url="t.me/MarineChats"),
             ],
         ],
     )
